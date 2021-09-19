@@ -1,0 +1,41 @@
+a.navbar-brand h1{
+    color: green;
+    margin-top: -6px;
+}
+#header-nav{
+    background-color: orange;
+    border: 0;
+    border-radius: 0%;
+}
+body{
+    background-color: maroon !important;
+}
+*{
+    box-sizing: border-box;
+}
+.row h1{
+    text-align: center;
+    color:turquoise;
+    font-weight: bold;
+    font-size:3em;
+    text-shadow: 1px 1px 1px #222;
+}
+.cl{
+    background-color: burlywood;
+    text-align: center;
+}
+#container{
+    text-align: center;
+}
+.glyphicon{
+	font-size: 33px;
+	color:#61122F; 
+    padding: 22px;
+    margin: 2px;
+
+}
+.collapse li a :hover{
+    background-color: white;
+}
+
+
